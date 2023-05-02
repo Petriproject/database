@@ -1,4 +1,4 @@
-# This is my basic example for my database skills
+# This is my a basic example for my database skills
 
 Database type: MySQL
 
