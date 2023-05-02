@@ -1,5 +1,9 @@
 # This is my basic example for my database skills
 
+Database type: MySQL
+
+Software: MySQL Workbench
+
 Customers table
 
 ![image](https://user-images.githubusercontent.com/132333244/235603888-0311f305-d9ac-42a7-854c-f3df0029e274.png)
